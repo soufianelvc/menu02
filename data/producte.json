@@ -1,0 +1,88 @@
+{
+    "prd" : [
+        {
+            "id": "p1",
+             "type" : "Breakfast" ,
+             "title" : "Coffee" , 
+             "img" : "prd/img1.jpg" ,
+              "description" : "Many people start their day with a hot beverage like coffee or tea for a caffeine boost.",
+              "price" : "12dh"
+            }
+            ,
+        {
+            "id": "p3",
+            "type" : "Breakfast" ,
+            "img" : "prd/img3.jpg" ,
+            "title" : "Milk" , 
+            "description" : "Whether in a glass or poured over cereal, milk is a common breakfast beverage.",
+            "price" : "14dh"
+        },
+        {
+            "id": "p4",
+            "type" : "Lunch" ,
+            "img" : "prd/img4.jpg" ,
+            "title" : "Starch" , 
+            "description" : "A portion of starch or carbohydrates is commonly included to provide energy. This may come in the form of rice, pasta, quinoa, potatoes, or whole grains.",
+            "price" : "45dh"
+        },
+
+        {
+            "id": "p2",
+            "type" : "Breakfast" ,
+            "img" : "prd/img2.jpg" ,
+            "title" : "Juice" , 
+            "description" : "MFreshly squeezed fruit juices or store-bought options are common choices.",
+            "price" : "15dh"
+            }        ,
+        {
+            "id": "p5",
+            "type" : "Dinner" ,
+            "img" : "prd/img5.jpg" ,
+            "title" : "chicken" , 
+            "description" : "The main course is the focal point of the dinner meal. It usually consists of a protein source such as meat (beef, chicken, lamb, fish), tofu, or legumes, accompanied by a starch (rice, pasta, potatoes) and a variety of vegetables. The preparation methods and flavor profiles can vary widely, reflecting the diversity of global cuisines.",
+            "price" : "75dh"
+        }, {
+            "id": "p1",
+             "type" : "Breakfast" ,
+             "title" : "Coffee" , 
+             "img" : "prd/img1.jpg" ,
+              "description" : "Many people start their day with a hot beverage like coffee or tea for a caffeine boost.",
+              "price" : "12dh"
+            }
+            ,
+        {
+            "id": "p3",
+            "type" : "Breakfast" ,
+            "img" : "prd/img3.jpg" ,
+            "title" : "Milk" , 
+            "description" : "Whether in a glass or poured over cereal, milk is a common breakfast beverage.",
+            "price" : "14dh"
+        },
+        {
+            "id": "p4",
+            "type" : "Lunch" ,
+            "img" : "prd/img4.jpg" ,
+            "title" : "Starch" , 
+            "description" : "A portion of starch or carbohydrates is commonly included to provide energy. This may come in the form of rice, pasta, quinoa, potatoes, or whole grains.",
+            "price" : "45dh"
+        },
+
+        {
+            "id": "p2",
+            "type" : "Breakfast" ,
+            "img" : "prd/img2.jpg" ,
+            "title" : "Juice" , 
+            "description" : "MFreshly squeezed fruit juices or store-bought options are common choices.",
+            "price" : "15dh"
+            }        ,
+        {
+            "id": "p5",
+            "type" : "Dinner" ,
+            "img" : "prd/img5.jpg" ,
+            "title" : "chicken" , 
+            "description" : "The main course is the focal point of the dinner meal. It usually consists of a protein source such as meat (beef, chicken, lamb, fish), tofu, or legumes, accompanied by a starch (rice, pasta, potatoes) and a variety of vegetables. The preparation methods and flavor profiles can vary widely, reflecting the diversity of global cuisines.",
+            "price" : "75dh"
+        }
+        
+    ]
+}

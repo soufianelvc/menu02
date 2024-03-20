@@ -1,0 +1,17 @@
+.color-body{
+  height: 100vh;
+  background-color: #f8f8f8;
+}
+.font{
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.rectangle{
+  height: 600px;
+  border-radius: 15px;
+  background-color: #ffffff;
+  box-shadow: 1px 4px 4px 1px rgba(85, 85, 85, 0.25);
+}
+.dates-count{
+  color: #555555;
+}
